@@ -1,3 +1,4 @@
+cmake_minimum_required(VERSION 3.5)
 
 #################################################################
 # find_package(Boost REQUIRED COMPONENTS unit_test_framework)

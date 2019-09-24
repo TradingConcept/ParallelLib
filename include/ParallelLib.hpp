@@ -7,7 +7,7 @@ namespace ParallelLib
     class DelegateBlock    
     {       
 
-    }
+    };
 
 }
 
